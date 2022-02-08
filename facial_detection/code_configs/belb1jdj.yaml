@@ -1,0 +1,6 @@
+CODE:
+  CODE_PKL : "code_configs/b1jdj_256_code.pkl"
+  CODE_TENSOR : "code_configs/b1jdj_256_tensor.pkl"
+  FC_EXIST : True
+  CODE_BITS : 65
+  CODE_NAME : "BELB1JDJ"

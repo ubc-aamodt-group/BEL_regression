@@ -1,0 +1,8 @@
+test_belj  error in degrees of the model on the 4647 test images. Yaw: 3.2593, Pitch: 3.3622, Roll: 3.6515 
+test_belj  MAE= 3.4243 
+test_tanh  error in degrees of the model on the 4647 test images. Yaw: 3.2589, Pitch: 3.3618, Roll: 3.6377 
+test_tanh  MAE= 3.4195 
+test_soft  error in degrees of the model on the 4647 test images. Yaw: 3.2435, Pitch: 3.3538, Roll: 3.6183 
+test_soft  MAE= 3.4052 
+test_ori  error in degrees of the model on the 4647 test images. Yaw: 3.2593, Pitch: 3.3622, Roll: 3.6515 
+test_ori  MAE= 3.4243 

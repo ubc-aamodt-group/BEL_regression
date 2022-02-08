@@ -1,0 +1,13 @@
+__pycache__
+.idea
+output
+outputs
+result
+results
+log
+logs
+driving_dataset
+driving_dataset.zip
+__MACOSX
+*.pth
+*.csv

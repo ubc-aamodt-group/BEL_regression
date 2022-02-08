@@ -1,0 +1,6 @@
+CODE:
+  CODE_PKL : "code_configs/belu_256_code.pkl"
+  CODE_TENSOR : "code_configs/belu_256_tensor.pkl"
+  FC_EXIST : True
+  CODE_BITS : 256
+  CODE_NAME : "BELU"

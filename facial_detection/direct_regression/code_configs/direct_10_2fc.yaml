@@ -1,0 +1,7 @@
+CODE:
+  CODE_PKL : "belu_256_code.pkl"
+  CODE_TENSOR : "belu_256_tensor.pkl"
+  FC_EXIST : True
+  CODE_BITS : 256
+  CODE_NAME : "DIRECT"
+  SCALE : 10.0

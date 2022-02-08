@@ -1,0 +1,7 @@
+tensorflow==1.13.1
+keras==2.2.4
+opencv-python
+keras-self-attention
+scikit-learn
+gdown
+h5py==2.10.0
