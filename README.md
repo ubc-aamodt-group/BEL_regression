@@ -23,7 +23,7 @@ If you find this project useful in your research, please cite:
 
 ```
 ​```
-@inproceedings{ShahICLR2022
+@inproceedings{ShahICLR2022,
   author    = {Shah, Deval and Xue, Zi Yu and Aamodt, Tor M. },
   booktitle = {International Conference on Learning Representations},
   title     = {Label Encoding for Regression Networks},
