@@ -7,8 +7,8 @@ from test_main_afad import test_main as test_main_afad
 from train_main_morph2 import train_main as train_main_morph2
 from test_main_morph2 import test_main as test_main_morph2
 
-from train_main_afad_thin import train_main as train_main_afad_thin
-from train_main_morph2_thin import train_main as train_main_morph2_thin
+#from train_main_afad_thin import train_main as train_main_afad_thin
+#from train_main_morph2_thin import train_main as train_main_morph2_thin
 
 
 import random
